@@ -1,6 +1,6 @@
  Hi there, I'm Shankar Kandregula 👋
 
-### A passionate Web developer from Anakapalle Town near Visakhapatnam
+### A passionate web developer from Anakapalle Town near Visakhapatnam
 
 Here are some ideas to get you started:
 
