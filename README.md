@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Analytics
 - 📫 How to reach me: shankar.kandregula@gmail.com
 
+---
 
 ### 🛠️ My Tech Stack
 
