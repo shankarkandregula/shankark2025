@@ -12,9 +12,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shankar.kandregula@gmail.com
 -->
 
+
+### 🛠️ My Tech Stack
+
 Here are a few technologies I've been working with recently:
 
-Frontend: HTML5, CSS3, JavaScript, React
-Backend: Python, PHP, laravel
-Database: MongoDB, SQL
-Tools: Git, Docker, VS Code
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend:** PHP, laravel, Python
+* **Database:** MongoDB, SQL
+* **Tools:** Git, Docker, VS Code
+
+---
+
+### 🔗 Connect with me:
+
+https://www.linkedin.com/in/shankar-k-29b65a166/
