@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Here are a few technologies I've been working with recently:
 
 * **Data Analytics** MS Excel, Power BI, Python, SQL
+* **Web Development** React JS & Python
 ---
 
 ### 🔗 Connect with me:
