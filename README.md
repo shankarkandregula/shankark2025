@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m a aspiring Data Analyst and a Web Developer
 - 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Data Analytics
